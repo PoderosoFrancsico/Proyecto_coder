@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
 
 
-name='pre_entrega_2_Poderoso',
+name='segunda_pre_entrega_Poderoso',
 version= '1.0',
 description='paquete pre entrega 2',
 autor='Poderos Francisco',
