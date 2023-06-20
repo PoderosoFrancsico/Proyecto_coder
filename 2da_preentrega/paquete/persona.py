@@ -5,4 +5,4 @@ class Persona:
         self.edad = edad
 
     def __str__(self):
-        return 'Nombre: ' + self.nombre
+        return 'Nombre: ' + self.nombre + ' Edad: ' + str(self.edad)

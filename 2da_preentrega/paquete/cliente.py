@@ -11,7 +11,7 @@ class Cliente(Persona):
         return ' cuenta nro.: ' + str(self.__cuenta)
     
     def obtener_credito(self):
-        return 'credito: ' + str(self.__credito)
+        return  str(self.__credito)#'credito:' +
     
     def __str__(self):
         return super().__str__() + ' Cuenta Nro.: ' + str(self.__cuenta)
