@@ -1,4 +1,4 @@
-from persona import Persona
+from paquete.persona import Persona
 
 class Cliente(Persona):
     
@@ -14,4 +14,4 @@ class Cliente(Persona):
         return 'credito: ' + str(self.__credito)
     
     def __str__(self):
-        return super().__str__() + 'Cuenta Nro.: ' + str(self.__cuenta)
+        return super().__str__() + ' Cuenta Nro.: ' + str(self.__cuenta)
