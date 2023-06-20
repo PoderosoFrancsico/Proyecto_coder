@@ -23,8 +23,8 @@ Utilizar otra función para el login de usuarios, comprobando que la contraseña
 """
 
 import json
-from google.colab import drive
-drive.mount('/drive/')
+#from google.colab import drive
+#drive.mount('/drive/')
 
 def singin(usuarios):#Funcion para ingresar datos y crear el archivo
 

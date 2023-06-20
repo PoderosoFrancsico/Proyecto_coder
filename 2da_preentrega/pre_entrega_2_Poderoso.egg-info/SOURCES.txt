@@ -1,0 +1,5 @@
+setup.py
+pre_entrega_2_Poderoso.egg-info/PKG-INFO
+pre_entrega_2_Poderoso.egg-info/SOURCES.txt
+pre_entrega_2_Poderoso.egg-info/dependency_links.txt
+pre_entrega_2_Poderoso.egg-info/top_level.txt

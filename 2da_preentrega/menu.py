@@ -1,5 +1,5 @@
-from persona import Persona
-from cliente import Cliente
+from paquete.persona import Persona
+from paquete.cliente import Cliente
 
 
 nom = str(input('Nombre: ')).capitalize()
